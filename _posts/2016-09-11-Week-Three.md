@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Week One in the Highly Recommended Downing Class
+title: Week Threeee
 ---
 
 **So Melody, How was your week?**
+
 So it was pretty stressful with the project coming on, but I think I did it correctly. Now it's just the anxiety that I won't get docked off of stupid things like forgetting to put in my
 SHA or something. In class, we learned the difference between passing by reference and by value which I still don't quite grasp yet which is okay! This weekend I went to NYC again, and it was
 very nice to come back to the city that finally won my heart. I work for Major League Hacking as a coach, so I had to go there for training at Swift's apartment in Brooklyn. It was pretty sweet. I had
